@@ -11,7 +11,7 @@ app.use(express.json({ extended: false }));
 app.use("/form", require("./routes/form"));
 
 //Serve Static Files in Production
-if (process.env.Node_ENV === "production") {
+if (process.env.NODE_ENV === "production") {
   //Set Static folder
   app.use(express.static("frontend/build"));
 

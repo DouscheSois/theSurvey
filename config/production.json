@@ -1,0 +1,3 @@
+{
+  "mongoConnection": "mongodb+srv://roger:maradona5@cluster0.tmef5.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
