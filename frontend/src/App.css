@@ -68,10 +68,9 @@ body {
   margin-right: 0.2rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1100px) {
   .survey {
-    padding: 1.5rem;
-    width: 30rem;
+    width: 23.5rem;
     height: 60rem;
   }
 }
