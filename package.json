@@ -1,0 +1,29 @@
+{
+  "name": "thesurvey",
+  "version": "1.0.0",
+  "description": "Survey App",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "mongoose": "^5.10.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouscheSois/theSurvey.git"
+  },
+  "author": "Roger Alexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DouscheSois/theSurvey/issues"
+  },
+  "homepage": "https://github.com/DouscheSois/theSurvey#readme"
+}
